@@ -1,1 +1,6 @@
-Contains all the code and samples for testing if a particular note or chord  was played on a guitar
+Contains multi-rate IIR filter-bank DSP algorithm that tests if a note/chord was played on a guitar
+The file that does the main testing for all the single notes is NoteToSignalRMSEachAudio
+
+To test for a given chord, view the following files:
+FalseNegsForChordSamples.sci
+FalsePosRateChordSamples.sci
